@@ -38,10 +38,10 @@ jobs:
           set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- "feed-df083ef153e1287ee3d0e89eeea8b92c.ics"; then
+          git add "feed-df083ef153e1287ee3d0e89eeea8b92c.ics"
+          if git diff --cached --quiet -- "feed-df083ef153e1287ee3d0e89eeea8b92c.ics"; then
             echo "No changes."
             exit 0
           fi
-          git add "feed-df083ef153e1287ee3d0e89eeea8b92c.ics"
           git commit -m "sync: refresh calendar feed"
           git push
