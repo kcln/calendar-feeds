@@ -30,7 +30,17 @@ jobs:
           fi
           tmp="$(mktemp)"
           curl -fsSL --retry 3 --retry-delay 5 "$CANVAS_URL" -o "$tmp"
-          sed 's/CLASS:PUBLIC/CLASS:PRIVATE/g' "$tmp" > "feed-df083ef153e1287ee3d0e89eeea8b92c.ics"
+          # Drop whole VEVENT blocks tagged accy_503, then rewrite CLASS:PUBLIC -> CLASS:PRIVATE.
+          awk '
+            /^BEGIN:VEVENT/  { in_event=1; buf=$0 ORS; next }
+            in_event && /^END:VEVENT/ {
+              buf = buf $0 ORS
+              if (buf !~ /accy_503/) printf "%s", buf
+              in_event=0; buf=""; next
+            }
+            in_event { buf = buf $0 ORS; next }
+            { print }
+          ' "$tmp" | sed 's/CLASS:PUBLIC/CLASS:PRIVATE/g' > "feed-df083ef153e1287ee3d0e89eeea8b92c.ics"
           rm -f "$tmp"
 
       - name: Commit if changed
