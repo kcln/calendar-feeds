@@ -154,6 +154,7 @@ SEQUENCE:0
 SUMMARY:Remember to Submit Group Preferences [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=05&year=2026#calendar_event_759732
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T113500Z
@@ -167,6 +168,7 @@ SUMMARY:Remember to submit group preferences (Due Day 5 of Week 1) [mba_547
  _120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=05&year=2026#calendar_event_761723
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T170500Z
@@ -261,6 +263,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  type="Quiz">Academic Integrity Quiz (Required to unlock course)</a></p><sc
  ript src="https://instructure-uploads.s3.amazonaws.com/account_14559000000
  0000001/attachments/9675810/dp_app.js"></script>
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T113400Z
@@ -274,6 +277,7 @@ SUMMARY:Due: Academic Integrity Quiz (Required to Unlock Course) [mba_547_1
  20265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=05&year=2026#calendar_event_761721
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T143000Z
@@ -298,6 +302,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  pi-returntype="Quiz">High Engagement Orientation Quiz (Required to Unlock 
  Course)</a></p><script src="https://instructure-uploads.s3.amazonaws.com/a
  ccount_145590000000000001/attachments/9675810/dp_app.js"></script>
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T113400Z
@@ -311,6 +316,7 @@ SUMMARY:Due: High Engagement Orientation Quiz (Required to Unlock Course) [
  mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=05&year=2026#calendar_event_761722
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T114400Z
@@ -361,6 +367,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  /22733538" data-api-returntype="File"></span></p>\n</div><script src="http
  s://instructure-uploads.s3.amazonaws.com/account_145590000000000001/attach
  ments/9675810/dp_app.js"></script>
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T111800Z
@@ -454,6 +461,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  e handled via Department\, School\, and University policies.</span></p>\n<
  /div>\n</div><script src="https://instructure-uploads.s3.amazonaws.com/acc
  ount_145590000000000001/attachments/9675810/dp_app.js"></script>
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T111400Z
@@ -497,6 +505,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  he deadline and this quiz is not timed.</p>\n</div>\n</div><script src="ht
  tps://instructure-uploads.s3.amazonaws.com/account_145590000000000001/atta
  chments/9675810/dp_app.js"></script>
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T112700Z
@@ -716,6 +725,7 @@ SEQUENCE:0
 SUMMARY:Case Quiz: Three Jays Corporation [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604877
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260512T084500Z
@@ -727,6 +737,7 @@ SEQUENCE:0
 SUMMARY:Module 2 Assignment: Cultural Similarity [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#assignment_1616403
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T111900Z
@@ -738,6 +749,7 @@ SEQUENCE:0
 SUMMARY:Module 2 Assignment/Quiz: Process Metrics [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604884
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T112700Z
@@ -957,6 +969,7 @@ SEQUENCE:0
 SUMMARY:Module 3 Assignment: Yogurt Ad [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#assignment_1616394
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T112300Z
@@ -969,6 +982,7 @@ SUMMARY:Module 3 Assignment/Quiz: Inventory Management [badm_567_120265_260
  488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604878
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T112400Z
@@ -981,6 +995,7 @@ SUMMARY:Team Assignment 1: "Stock-up vs Stock-out: The Inventory Management
   Dilemma at a Mobile Clinic" [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604891
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T112700Z
@@ -1201,6 +1216,7 @@ SEQUENCE:0
 SUMMARY:Recommended MOOC 1 Deadline [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#calendar_event_759734
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T113600Z
@@ -1213,6 +1229,7 @@ SEQUENCE:0
 SUMMARY:Recommended MOOC 1 Deadline [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#calendar_event_761724
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T113000Z
@@ -1224,6 +1241,7 @@ SEQUENCE:0
 SUMMARY:Case Quiz: Ritz Carlton [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604883
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260512T084600Z
@@ -1236,6 +1254,7 @@ SUMMARY:Module 4 Assignment: Cultural Knowledge Network [mba_547_120265_260
  490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#assignment_1616395
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T112800Z
@@ -1248,6 +1267,7 @@ SUMMARY:Timed Quiz 1 - 120 minutes - Single Sitting\, Single Attempt - On M
  odules 1 through 4 [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604885
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T142200Z
@@ -1467,6 +1487,7 @@ SUMMARY:Module 5 Assignment: Market Size of Yogurt - Brazil (for Brazil gro
  ups only) [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#assignment_1616397
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T114800Z
@@ -1479,6 +1500,7 @@ SUMMARY:Module 5 Assignment: Market Size of Yogurt - New Zealand (for New Z
  ealand groups only) [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#assignment_1616398
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T114900Z
@@ -1491,6 +1513,7 @@ SUMMARY:Module 5 Assignment: Market Size of Yogurt - Poland (for Poland gro
  ups only) [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=06&year=2026#assignment_1616399
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T113100Z
@@ -1503,6 +1526,7 @@ SUMMARY:Module 5 Assignment/Quiz: Six Sigma at Academic Medical Hospital (A
  ) [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=06&year=2026#assignment_1604881
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T112700Z
@@ -1721,6 +1745,7 @@ SEQUENCE:0
 SUMMARY:Module 6 Assignment: Brand Audit [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=07&year=2026#assignment_1616404
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T113300Z
@@ -1733,6 +1758,7 @@ SUMMARY:Module 6 Assignment/Quiz: Quality Management\, Process Control\, an
  d Process Capability [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604880
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T113400Z
@@ -1744,6 +1770,7 @@ SEQUENCE:0
 SUMMARY:Team Assignment 2: Bergerac Systems [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604892
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T142400Z
@@ -1964,6 +1991,7 @@ SUMMARY:Scores from Teammates [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604890
 X-ALT-DESC;FMTTYPE=text/html:
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T113600Z
@@ -1976,6 +2004,7 @@ SUMMARY:Case Quiz: Tetra Pak: A Digitally Enabled Supply Chain [badm_567_12
  0265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604879
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T115000Z
@@ -1988,6 +2017,7 @@ SUMMARY:Module 7 Assignment: Culturally Focused Marketing Plan [Group Assig
  nment] [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=07&year=2026#assignment_1616405
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T145000Z
@@ -1999,6 +2029,7 @@ SEQUENCE:0
 SUMMARY:Teammate Evaluation [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604893
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T112700Z
@@ -2232,6 +2263,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  pp)</p>\n    </div>\n</div><script src="https://instructure-uploads.s3.ama
  zonaws.com/account_145590000000000001/attachments/9675810/dp_app.js"></scr
  ipt>
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T170500Z
@@ -2289,6 +2321,7 @@ SEQUENCE:0
 SUMMARY:Coursera MOOC 2 Deadline [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=07&year=2026#assignment_1616402
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260516T215400Z
@@ -2300,6 +2333,7 @@ SEQUENCE:0
 SUMMARY:Coursera MOOC 1 Deadline [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604888
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T114300Z
@@ -2311,6 +2345,7 @@ SEQUENCE:0
 SUMMARY:Coursera MOOC 1 Deadline [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=07&year=2026#assignment_1616401
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260517T004200Z
@@ -2322,6 +2357,7 @@ SEQUENCE:0
 SUMMARY:Coursera MOOC 2 Deadline [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604889
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T115300Z
@@ -2334,6 +2370,7 @@ SUMMARY:Module 8 Assignment: Harmonizing a Global Marketing Plan [Group Ass
  ignment] [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=07&year=2026#assignment_1616406
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260511T115200Z
@@ -2345,6 +2382,7 @@ SEQUENCE:0
 SUMMARY:Teammate Evaluation [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69168&month=07&year=2026#assignment_1616407
+TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20260505T114700Z
@@ -2357,5 +2395,6 @@ SUMMARY:Timed Quiz 2 - 120 minutes - Single Sitting\, Single Attempt - On M
  odules 5 Through 8 [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
  69166&month=07&year=2026#assignment_1604882
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
