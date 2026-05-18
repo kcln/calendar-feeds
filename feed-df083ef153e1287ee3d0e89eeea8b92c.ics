@@ -10,7 +10,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761689
 DTSTART:20260521T153000Z
 DTEND:20260521T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -33,7 +33,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759653
 DTSTART:20260521T210000Z
 DTEND:20260521T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -56,7 +56,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750874
 DTSTART:20260521T230000Z
 DTEND:20260522T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -79,7 +79,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761697
 DTSTART:20260521T230000Z
 DTEND:20260522T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -102,7 +102,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761705
 DTSTART:20260522T130000Z
 DTEND:20260522T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -125,7 +125,7 @@ DTSTAMP:20260505T115400Z
 UID:event-calendar-event-750884
 DTSTART:20260522T153000Z
 DTEND:20260522T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -148,7 +148,7 @@ DTSTAMP:20260505T143100Z
 UID:event-calendar-event-759732
 DTSTART:20260523T045900Z
 DTEND:20260523T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 LOCATION:
 SEQUENCE:0
 SUMMARY:Remember to Submit Group Preferences [badm_567_120265_260488]
@@ -160,7 +160,7 @@ DTSTAMP:20260511T113500Z
 UID:event-calendar-event-761723
 DTSTART:20260523T045900Z
 DTEND:20260523T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 LOCATION:
 SEQUENCE:0
 SUMMARY:Remember to submit group preferences (Due Day 5 of Week 1) [mba_547
@@ -173,7 +173,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759740
 DTSTART:20260524T140000Z
 DTEND:20260524T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -196,7 +196,7 @@ DTSTAMP:20260511T113200Z
 UID:event-calendar-event-761713
 DTSTART:20260525T140000Z
 DTEND:20260525T150000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -220,7 +220,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750900
 DTSTART:20260526T000000Z
 DTEND:20260526T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -243,7 +243,7 @@ DTSTAMP:20260505T143000Z
 UID:event-calendar-event-750877
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Academic Integrity Quiz (Required to unlock course)] (https://
  canvas.illinois.edu/courses/69166/quizzes/413493)
 LOCATION:
@@ -267,7 +267,7 @@ DTSTAMP:20260511T113400Z
 UID:event-calendar-event-761721
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 LOCATION:
 SEQUENCE:0
 SUMMARY:Due: Academic Integrity Quiz (Required to Unlock Course) [mba_547_1
@@ -280,7 +280,7 @@ DTSTAMP:20260505T143000Z
 UID:event-calendar-event-750878
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[High Engagement Orientation Quiz (Required to Unlock Course)] 
  (https://canvas.illinois.edu/courses/69166/quizzes/413497)
 LOCATION:
@@ -304,7 +304,7 @@ DTSTAMP:20260511T113400Z
 UID:event-calendar-event-761722
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 LOCATION:
 SEQUENCE:0
 SUMMARY:Due: High Engagement Orientation Quiz (Required to Unlock Course) [
@@ -317,7 +317,7 @@ DTSTAMP:20260511T114400Z
 UID:event-assignment-1616396
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:---------------------\nMBA 547 Module 1 Exam\n-----------------
  ----\n\nThe exam will assess your knowledge of Module 1 concepts. There ar
  e 10 multiple choice questions and four open response questions. You have 
@@ -367,7 +367,7 @@ DTSTAMP:20260505T111800Z
 UID:event-assignment-1604886
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:----------------------------------------\nModule 1Paediatric Or
  thopaedic Case Quiz\n----------------------------------------\n\n  Instru
  ctions\n--------------\n\nYou can find the case “Paediatric Orthopaedic 
@@ -460,7 +460,7 @@ DTSTAMP:20260505T111400Z
 UID:event-assignment-1604887
 DTSTART:20260527T045900Z
 DTEND:20260527T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:-------------------------------\nCourse OrientationSyllabus Qui
  z\n-------------------------------\n\n  Instructions\n--------------\n\nP
  lease read the syllabus before you take this quiz. In order to unlock the
@@ -503,7 +503,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761690
 DTSTART:20260528T153000Z
 DTEND:20260528T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -526,7 +526,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759654
 DTSTART:20260528T210000Z
 DTEND:20260528T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -549,7 +549,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750875
 DTSTART:20260528T230000Z
 DTEND:20260529T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -572,7 +572,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761698
 DTSTART:20260528T230000Z
 DTEND:20260529T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -595,7 +595,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761706
 DTSTART:20260529T130000Z
 DTEND:20260529T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -618,7 +618,7 @@ DTSTAMP:20260505T115400Z
 UID:event-calendar-event-750885
 DTSTART:20260529T153000Z
 DTEND:20260529T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -641,7 +641,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759741
 DTSTART:20260531T140000Z
 DTEND:20260531T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -664,7 +664,7 @@ DTSTAMP:20260511T113200Z
 UID:event-calendar-event-761714
 DTSTART:20260601T140000Z
 DTEND:20260601T150000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -688,7 +688,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750901
 DTSTART:20260602T000000Z
 DTEND:20260602T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -711,7 +711,7 @@ DTSTAMP:20260505T112000Z
 UID:event-assignment-1604877
 DTSTART:20260603T045900Z
 DTEND:20260603T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Case Quiz: Three Jays Corporation [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -722,7 +722,7 @@ DTSTAMP:20260512T084500Z
 UID:event-assignment-1616403
 DTSTART:20260603T045900Z
 DTEND:20260603T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 2 Assignment: Cultural Similarity [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -733,7 +733,7 @@ DTSTAMP:20260505T111900Z
 UID:event-assignment-1604884
 DTSTART:20260603T045900Z
 DTEND:20260603T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 2 Assignment/Quiz: Process Metrics [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -744,7 +744,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761691
 DTSTART:20260604T153000Z
 DTEND:20260604T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -767,7 +767,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759655
 DTSTART:20260604T210000Z
 DTEND:20260604T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -790,7 +790,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750876
 DTSTART:20260604T230000Z
 DTEND:20260605T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -813,7 +813,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761699
 DTSTART:20260604T230000Z
 DTEND:20260605T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -836,7 +836,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761707
 DTSTART:20260605T130000Z
 DTEND:20260605T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -859,7 +859,7 @@ DTSTAMP:20260505T115400Z
 UID:event-calendar-event-750886
 DTSTART:20260605T153000Z
 DTEND:20260605T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -882,7 +882,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759742
 DTSTART:20260607T140000Z
 DTEND:20260607T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -905,7 +905,7 @@ DTSTAMP:20260511T113200Z
 UID:event-calendar-event-761715
 DTSTART:20260608T140000Z
 DTEND:20260608T150000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -929,7 +929,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750902
 DTSTART:20260609T000000Z
 DTEND:20260609T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -952,7 +952,7 @@ DTSTAMP:20260512T005100Z
 UID:event-assignment-1616394
 DTSTART:20260610T045900Z
 DTEND:20260610T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 3 Assignment: Yogurt Ad [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -963,7 +963,7 @@ DTSTAMP:20260505T112300Z
 UID:event-assignment-1604878
 DTSTART:20260610T045900Z
 DTEND:20260610T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 3 Assignment/Quiz: Inventory Management [badm_567_120265_260
  488]
@@ -975,7 +975,7 @@ DTSTAMP:20260505T112400Z
 UID:event-assignment-1604891
 DTSTART:20260610T045900Z
 DTEND:20260610T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Team Assignment 1: "Stock-up vs Stock-out: The Inventory Management
   Dilemma at a Mobile Clinic" [badm_567_120265_260488]
@@ -987,7 +987,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761692
 DTSTART:20260611T153000Z
 DTEND:20260611T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1010,7 +1010,7 @@ DTSTAMP:20260506T181300Z
 UID:event-calendar-event-759656
 DTSTART:20260611T210000Z
 DTEND:20260611T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1033,7 +1033,7 @@ DTSTAMP:20260506T181300Z
 UID:event-calendar-event-750879
 DTSTART:20260611T230000Z
 DTEND:20260612T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1056,7 +1056,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761700
 DTSTART:20260611T230000Z
 DTEND:20260612T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1079,7 +1079,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761708
 DTSTART:20260612T130000Z
 DTEND:20260612T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1102,7 +1102,7 @@ DTSTAMP:20260505T115400Z
 UID:event-calendar-event-750887
 DTSTART:20260612T153000Z
 DTEND:20260612T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1125,7 +1125,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759743
 DTSTART:20260614T140000Z
 DTEND:20260614T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1148,7 +1148,7 @@ DTSTAMP:20260511T113200Z
 UID:event-calendar-event-761716
 DTSTART:20260615T140000Z
 DTEND:20260615T150000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1172,7 +1172,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750903
 DTSTART:20260616T000000Z
 DTEND:20260616T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1195,7 +1195,7 @@ DTSTAMP:20260505T143200Z
 UID:event-calendar-event-759734
 DTSTART:20260617T045900Z
 DTEND:20260617T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 LOCATION:
 SEQUENCE:0
 SUMMARY:Recommended MOOC 1 Deadline [badm_567_120265_260488]
@@ -1207,7 +1207,7 @@ DTSTAMP:20260511T113600Z
 UID:event-calendar-event-761724
 DTSTART:20260617T045900Z
 DTEND:20260617T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 LOCATION:
 SEQUENCE:0
 SUMMARY:Recommended MOOC 1 Deadline [mba_547_120265_260490]
@@ -1219,7 +1219,7 @@ DTSTAMP:20260505T113000Z
 UID:event-assignment-1604883
 DTSTART:20260617T045900Z
 DTEND:20260617T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Case Quiz: Ritz Carlton [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -1230,7 +1230,7 @@ DTSTAMP:20260512T084600Z
 UID:event-assignment-1616395
 DTSTART:20260617T045900Z
 DTEND:20260617T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 4 Assignment: Cultural Knowledge Network [mba_547_120265_260
  490]
@@ -1242,7 +1242,7 @@ DTSTAMP:20260505T112800Z
 UID:event-assignment-1604885
 DTSTART:20260617T045900Z
 DTEND:20260617T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Timed Quiz 1 - 120 minutes - Single Sitting\, Single Attempt - On M
  odules 1 through 4 [badm_567_120265_260488]
@@ -1254,7 +1254,7 @@ DTSTAMP:20260505T142200Z
 UID:event-calendar-event-750888
 DTSTART:20260618T153000Z
 DTEND:20260618T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1277,7 +1277,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761693
 DTSTART:20260618T153000Z
 DTEND:20260618T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1300,7 +1300,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759657
 DTSTART:20260618T210000Z
 DTEND:20260618T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1323,7 +1323,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750880
 DTSTART:20260618T230000Z
 DTEND:20260619T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1346,7 +1346,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761701
 DTSTART:20260618T230000Z
 DTEND:20260619T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1369,7 +1369,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761709
 DTSTART:20260619T130000Z
 DTEND:20260619T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1392,7 +1392,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759744
 DTSTART:20260621T140000Z
 DTEND:20260621T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1415,7 +1415,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761717
 DTSTART:20260622T150000Z
 DTEND:20260622T160000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1438,7 +1438,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750904
 DTSTART:20260623T000000Z
 DTEND:20260623T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1461,7 +1461,7 @@ DTSTAMP:20260511T114800Z
 UID:event-assignment-1616397
 DTSTART:20260624T045900Z
 DTEND:20260624T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 5 Assignment: Market Size of Yogurt - Brazil (for Brazil gro
  ups only) [mba_547_120265_260490]
@@ -1473,7 +1473,7 @@ DTSTAMP:20260511T114800Z
 UID:event-assignment-1616398
 DTSTART:20260624T045900Z
 DTEND:20260624T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 5 Assignment: Market Size of Yogurt - New Zealand (for New Z
  ealand groups only) [mba_547_120265_260490]
@@ -1485,7 +1485,7 @@ DTSTAMP:20260511T114900Z
 UID:event-assignment-1616399
 DTSTART:20260624T045900Z
 DTEND:20260624T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 5 Assignment: Market Size of Yogurt - Poland (for Poland gro
  ups only) [mba_547_120265_260490]
@@ -1497,7 +1497,7 @@ DTSTAMP:20260505T113100Z
 UID:event-assignment-1604881
 DTSTART:20260624T045900Z
 DTEND:20260624T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 5 Assignment/Quiz: Six Sigma at Academic Medical Hospital (A
  ) [badm_567_120265_260488]
@@ -1509,7 +1509,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761694
 DTSTART:20260625T153000Z
 DTEND:20260625T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1532,7 +1532,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759658
 DTSTART:20260625T210000Z
 DTEND:20260625T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1555,7 +1555,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750881
 DTSTART:20260625T230000Z
 DTEND:20260626T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1578,7 +1578,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761702
 DTSTART:20260625T230000Z
 DTEND:20260626T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1601,7 +1601,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761710
 DTSTART:20260626T130000Z
 DTEND:20260626T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1624,7 +1624,7 @@ DTSTAMP:20260505T115400Z
 UID:event-calendar-event-750889
 DTSTART:20260626T153000Z
 DTEND:20260626T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1647,7 +1647,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759745
 DTSTART:20260628T140000Z
 DTEND:20260628T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1670,7 +1670,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761718
 DTSTART:20260629T150000Z
 DTEND:20260629T160000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1693,7 +1693,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750905
 DTSTART:20260630T000000Z
 DTEND:20260630T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1716,7 +1716,7 @@ DTSTAMP:20260511T114900Z
 UID:event-assignment-1616404
 DTSTART:20260701T045900Z
 DTEND:20260701T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 6 Assignment: Brand Audit [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -1727,7 +1727,7 @@ DTSTAMP:20260505T113300Z
 UID:event-assignment-1604880
 DTSTART:20260701T045900Z
 DTEND:20260701T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 6 Assignment/Quiz: Quality Management\, Process Control\, an
  d Process Capability [badm_567_120265_260488]
@@ -1739,7 +1739,7 @@ DTSTAMP:20260505T113400Z
 UID:event-assignment-1604892
 DTSTART:20260701T045900Z
 DTEND:20260701T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Team Assignment 2: Bergerac Systems [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -1750,7 +1750,7 @@ DTSTAMP:20260505T142400Z
 UID:event-calendar-event-750890
 DTSTART:20260702T153000Z
 DTEND:20260702T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1773,7 +1773,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761695
 DTSTART:20260702T153000Z
 DTEND:20260702T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1796,7 +1796,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759659
 DTSTART:20260702T210000Z
 DTEND:20260702T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1819,7 +1819,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750882
 DTSTART:20260702T230000Z
 DTEND:20260703T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1842,7 +1842,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761703
 DTSTART:20260702T230000Z
 DTEND:20260703T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1865,7 +1865,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761711
 DTSTART:20260703T130000Z
 DTEND:20260703T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1888,7 +1888,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759746
 DTSTART:20260705T140000Z
 DTEND:20260705T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1911,7 +1911,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761719
 DTSTART:20260706T150000Z
 DTEND:20260706T160000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1934,7 +1934,7 @@ DTSTAMP:20260505T115600Z
 UID:event-calendar-event-750906
 DTSTART:20260707T000000Z
 DTEND:20260707T013000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -1957,7 +1957,7 @@ DTSTAMP:20260505T115700Z
 UID:event-assignment-1604890
 DTSTART:20260708T045900Z
 DTEND:20260708T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:
 SEQUENCE:0
 SUMMARY:Scores from Teammates [badm_567_120265_260488]
@@ -1970,7 +1970,7 @@ DTSTAMP:20260505T113600Z
 UID:event-assignment-1604879
 DTSTART:20260708T045900Z
 DTEND:20260708T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Case Quiz: Tetra Pak: A Digitally Enabled Supply Chain [badm_567_12
  0265_260488]
@@ -1982,7 +1982,7 @@ DTSTAMP:20260511T115000Z
 UID:event-assignment-1616405
 DTSTART:20260708T045900Z
 DTEND:20260708T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 7 Assignment: Culturally Focused Marketing Plan [Group Assig
  nment] [mba_547_120265_260490]
@@ -1994,7 +1994,7 @@ DTSTAMP:20260505T145000Z
 UID:event-assignment-1604893
 DTSTART:20260708T045900Z
 DTEND:20260708T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Teammate Evaluation [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -2005,7 +2005,7 @@ DTSTAMP:20260511T112700Z
 UID:event-calendar-event-761696
 DTSTART:20260709T153000Z
 DTEND:20260709T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2028,7 +2028,7 @@ DTSTAMP:20260505T161200Z
 UID:event-calendar-event-759660
 DTSTART:20260709T210000Z
 DTEND:20260709T223000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2051,7 +2051,7 @@ DTSTAMP:20260505T115700Z
 UID:event-calendar-event-750883
 DTSTART:20260709T230000Z
 DTEND:20260710T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2074,7 +2074,7 @@ DTSTAMP:20260511T112900Z
 UID:event-calendar-event-761704
 DTSTART:20260709T230000Z
 DTEND:20260710T003000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2097,7 +2097,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761712
 DTSTART:20260710T130000Z
 DTEND:20260710T140000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2120,7 +2120,7 @@ DTSTAMP:20260505T115400Z
 UID:event-calendar-event-750891
 DTSTART:20260710T153000Z
 DTEND:20260710T170000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2143,7 +2143,7 @@ DTSTAMP:20260511T172900Z
 UID:event-assignment-1616400
 DTSTART:20260711T045900Z
 DTEND:20260711T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:-------------------------------------------------\nMBA 547Resea
  rch Participation Extra Credit Option\n-----------------------------------
  --------------\n\n  Instructions\n--------------\n\nYou can earn extra cr
@@ -2238,7 +2238,7 @@ DTSTAMP:20260517T170500Z
 UID:event-calendar-event-759747
 DTSTART:20260712T140000Z
 DTEND:20260712T153000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69166/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2261,7 +2261,7 @@ DTSTAMP:20260511T183600Z
 UID:event-calendar-event-761720
 DTSTART:20260713T150000Z
 DTEND:20260713T160000Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 DESCRIPTION:[Live Sessions and Office Hours] (https://canvas.illinois.edu/c
  ourses/69168/pages/live-sessions-and-office-hours)
 LOCATION:
@@ -2284,7 +2284,7 @@ DTSTAMP:20260511T114300Z
 UID:event-assignment-1616402
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Coursera MOOC 2 Deadline [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -2295,7 +2295,7 @@ DTSTAMP:20260516T215400Z
 UID:event-assignment-1604888
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Coursera MOOC 1 Deadline [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -2306,7 +2306,7 @@ DTSTAMP:20260511T114300Z
 UID:event-assignment-1616401
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Coursera MOOC 1 Deadline [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -2317,7 +2317,7 @@ DTSTAMP:20260517T004200Z
 UID:event-assignment-1604889
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Coursera MOOC 2 Deadline [badm_567_120265_260488]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -2328,7 +2328,7 @@ DTSTAMP:20260511T115300Z
 UID:event-assignment-1616406
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Module 8 Assignment: Harmonizing a Global Marketing Plan [Group Ass
  ignment] [mba_547_120265_260490]
@@ -2340,7 +2340,7 @@ DTSTAMP:20260511T115200Z
 UID:event-assignment-1616407
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Teammate Evaluation [mba_547_120265_260490]
 URL;VALUE=URI:https://canvas.illinois.edu/calendar?include_contexts=course_
@@ -2351,7 +2351,7 @@ DTSTAMP:20260505T114700Z
 UID:event-assignment-1604882
 DTSTART:20260715T045900Z
 DTEND:20260715T045900Z
-CLASS:PRIVATE
+CLASS:PUBLIC
 SEQUENCE:0
 SUMMARY:Timed Quiz 2 - 120 minutes - Single Sitting\, Single Attempt - On M
  odules 5 Through 8 [badm_567_120265_260488]
